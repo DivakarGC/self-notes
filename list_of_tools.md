@@ -27,7 +27,7 @@
 
 ### Additional Information
 - **16,600/-** - Possibly a cost or budget related to some components.
-- **-110/-** - Not directly related to electronics, could be personal reminders or other notes I honestly forgot.
+- **110/-** - Not directly related to electronics, could be personal reminders or other notes I honestly forgot.
 
 ### List of Manufacturers Mentioned
 1. **NXP - USA** - Manufacturer of microcontrollers and other semiconductors.
