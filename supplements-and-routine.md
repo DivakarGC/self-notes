@@ -1,5 +1,3 @@
-Here's the verified text with corrections and clarifications noted:
-
 ## Supplements and Daily Routine
 
 ### Detailed Explanation of Supplements
