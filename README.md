@@ -9,4 +9,4 @@ You can explore and glean any insights that resonate with you from these self-no
 
 1. on-productivity - Productivity hacks and techniques compiled.
 2. list_of_tools - List of some components or parts or tools I might get familiar with for my projects.
-3. supplements-and-routine - Daily supplement routine for improved cognitive function, physical performance, and overall health.
+3. supplements-and-routine - Supplement routine for improved cognitive function, physical performance, and overall health.
