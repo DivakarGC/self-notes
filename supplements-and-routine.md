@@ -164,5 +164,3 @@
 2. **Side Effects of Melatonin**: Clarified that side effects like drowsiness and dizziness are more common with higher doses.
 3. **Ashwagandha**: Emphasized its primary action is through cortisol reduction and stress response modulation.
 4. **Zinc Citrate**: Added clarification about high-dose zinc supplementation potentially causing copper deficiency.
-
-No other significant errors were identified. The information provided is generally accurate and reliable.
