@@ -1,8 +1,8 @@
 ### Electronic Parts and Components (Maybe for a Flight Computer)
 
 #### Microcontrollers and Processors
-1. **μC (Microcontroller)** - Likely referring to a general-purpose microcontroller.
-2. **MKL8FN2M0VLQ** - Part number, likely a microcontroller from NXP.
+1. **Teensy μC (Microcontroller)** - Referring to a general-purpose microcontroller.
+2. **MK66FN2M0VLQ18** - A microcontroller from NXP.
 3. **Teensy 3.x Bootloader** - Pre-programmed bootloader for Teensy microcontroller boards, often used for prototyping and development.
 
 #### Communication Modules
