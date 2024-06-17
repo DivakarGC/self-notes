@@ -153,9 +153,7 @@
 
 #### Throughout the Day
 - **Cacao** in morning smoothie or snack.
-- **Astaxanthin, Zeaxanthin, L
-
-utein** with lunch.
+- **Astaxanthin, Zeaxanthin, Lutein** with lunch.
 - **Stay Hydrated**: Drink plenty of water throughout the day.
 
 This plan optimizes supplement intake timing to align with daily activities and physiological needs, enhancing cognitive and physical performance while supporting overall health.
