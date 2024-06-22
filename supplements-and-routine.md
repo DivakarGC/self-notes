@@ -116,7 +116,7 @@
   - **Energy Production**: Enhances mitochondrial function and energy production.
   - **Cognitive Function**: Improves cognitive function.
 - **Side Effects**: Potential digestive upset.
-- **Timing**: Take before exercise or with a meal.
+- **Timing**: Take before exercise or with a meal (ideally with simple carbs)
 - **Additional Tips**: Include red meat and dairy in your diet for natural sources.
 
 #### 14. L-Theanine (200mg) + Caffeine (100mg)
@@ -138,7 +138,7 @@
 - **Hydrolyzed Collagen** with a vitamin C source.
 
 #### Pre-Workout
-- **L-Carnitine (1000mg)**
+- **L-Carnitine (1000mg) in presence of simple carbs**
 - **L-Taurine (1000mg)**
 
 #### Post-Workout
