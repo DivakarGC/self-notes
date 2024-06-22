@@ -138,7 +138,7 @@
 - **Hydrolyzed Collagen** with a vitamin C source.
 
 #### Pre-Workout
-- **L-Carnitine (1000mg) in presence of simple carbs**
+- **L-Carnitine (1000mg)** in presence of simple carbs.
 - **L-Taurine (1000mg)**
 
 #### Post-Workout
