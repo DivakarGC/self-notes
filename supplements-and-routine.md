@@ -18,7 +18,7 @@
   - **Stress Reduction**: Lowers cortisol levels, improves mood, and reduces anxiety.
 - **Side Effects**: Stomach upset, drowsiness, interactions with thyroid medications.
 - **Timing**: Take in the morning with breakfast or split into two doses (morning and evening).
-- **Additional Tips**: Consult with a healthcare provider (due to your hyperthyroidism).
+- **Additional Tips**: Consult with a healthcare provider (since I have hyperthyroidism).
 
 #### 3. Protein
 - **Cellular Mechanism**: Supplies amino acids for neurotransmitter synthesis and muscle repair.
@@ -27,7 +27,7 @@
   - **Physical Performance**: Aids in muscle recovery and growth.
 - **Side Effects**: Digestive issues if taken in excess but vary among individuals.
 - **Timing**: Post-exercise and as part of meals to ensure a consistent supply.
-- **Additional Tips**: Aim for 1.2-1.5 grams per kg of body weight daily. Opt for a blend of whey and casein protein for immediate and sustained release.
+- **Additional Tips**: Aim for 1.2-1.5 grams per kg of body weight daily. Opt for a blend of whey and casein protein for immediate and sustained release if that's your preference for maximising efficiency.
 
 #### 4. Hydrolyzed Collagen Complex (1800mg)
 - **Cellular Mechanism**: Provides amino acids for collagen synthesis, promoting connective tissue repair.
@@ -50,9 +50,9 @@
 #### 6. Coenzyme Q-10 (100mg)
 - **Cellular Mechanism**: Key component of the electron transport chain in mitochondria, essential for ATP production. Acts as an antioxidant.
 - **Benefits**:
-  - **Energy Production**: Enhances mitochondrial function and energy production.
+  - **Energy Production**: Enhances mitochondrial function and energy production (also VERY helpful for cardiovascular health).
   - **Neuroprotection**: Reduces oxidative stress, protecting neurons.
-- **Side Effects**: Digestive upset, headaches.
+- **Side Effects**: An upset stomach, headaches.
 - **Timing**: Take with a meal containing fats, preferably in the morning.
 - **Additional Tips**: Include fatty fish, organ meats, and whole grains in your diet.
 
@@ -62,7 +62,7 @@
   - **Cognitive Function**: Supports neurogenesis and synaptic plasticity.
   - **Cardiovascular Health**: Modulates blood pressure and heart function.
 - **Side Effects**: Generally well-tolerated.
-- **Timing**: Take with food, ideally before exercise.
+- **Timing**: Take with food, ideally before exercise (but absorbs best on an empty stomach ~15/30m before exercise).
 - **Additional Tips**: Include natural sources like meat, fish, and dairy.
 
 #### 8. Creatine Monohydrate (3g)
@@ -72,7 +72,7 @@
   - **Physical Performance**: Enhances muscle strength, power, and recovery.
 - **Side Effects**: Water retention, potential digestive discomfort.
 - **Timing**: Post-exercise with a carbohydrate source.
-- **Additional Tips**: Stay hydrated and monitor for any side effects.
+- **Additional Tips**: Stay VERY hydrated and monitor for any side effects.
 
 #### 9. Zinc Citrate
 - **Cellular Mechanism**: Cofactor for over 300 enzymes, playing a critical role in DNA synthesis, protein synthesis, and cellular repair.
@@ -114,7 +114,7 @@
 - **Cellular Mechanism**: Transports fatty acids into mitochondria for beta-oxidation. Has neuroprotective properties.
 - **Benefits**:
   - **Energy Production**: Enhances mitochondrial function and energy production.
-  - **Cognitive Function**: Improves cognitive function.
+  - **Cognitive Function**: Just improves cognitive function (trust me bro).
 - **Side Effects**: Potential digestive upset.
 - **Timing**: Take before exercise or with a meal (ideally with simple carbs)
 - **Additional Tips**: Include red meat and dairy in your diet for natural sources.
@@ -123,8 +123,8 @@
 - **Cellular Mechanism**: L-theanine promotes relaxation by increasing GABA, serotonin, and dopamine levels. Caffeine stimulates the central nervous system by blocking adenosine receptors.
 - **Benefits**:
   - **Cognitive Function**: Improves attention, reaction time, and accuracy.
-  - **Mood and Anxiety**: Mitigates anxiety-inducing effects of caffeine.
-- **Side Effects**: Caffeine-related jitters if sensitive.
+  - **Mood and Anxiety**: Mitigates anxiety-inducing effects of caffeine and caffeine helps you stay awake (an effect of theanine is to relax you enough that you observe drowsiness).
+- **Side Effects**: Caffeine-related jitters if sensitive (rare for 100mg).
 - **Timing**: Take in the morning or before a task requiring focus.
 - **Additional Tips**: Combine with green tea for a natural source.
 
@@ -139,22 +139,22 @@
 
 #### Pre-Workout
 - **L-Carnitine (1000mg)** with any simple carbs.
-- **L-Taurine (1000mg)**
+- **L-Taurine (1000mg)** after waking up.
 
 #### Post-Workout
-- **Protein shake**
-- **Creatine Monohydrate (3g)**
+- **Protein shake**  (water base) after morning workout (optional at night with milk base for slower release).
+- **Creatine Monohydrate (3g)** in the (morning) shake.
 
 #### Evening Routine
-- **Ashwagandha (250mg)** with dinner.
-- **Zinc Citrate** with dinner.
+- **Ashwagandha (250mg)** with dinner (optional).
+- **Zinc Citrate** before bedtime.
 - **Magnesium Glycinate** before bedtime.
 - **Melatonin** 30-60 minutes before sleep.
 
 #### Throughout the Day
 - **Cacao** in a morning smoothie or snack.
 - **Astaxanthin, Zeaxanthin, Lutein** with lunch.
-- **Stay Hydrated**: Drink plenty of water throughout the day.
+- **Stay Hydrated**: Drink PLENTY of water throughout the day (3-5L).
 
 ### Conclusion
 *There were some minor inaccuracies and areas needing clarification in the descriptions of the mechanisms and benefits of the supplements.* After addressing the inaccuracies, this plan optimizes supplement intake timing to align with daily activities and physiological needs, enhancing cognitive and physical performance while supporting overall health.
