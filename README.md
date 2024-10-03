@@ -10,3 +10,5 @@ You can explore and glean any insights that resonate with you from these self-no
 1. on-productivity - Productivity hacks and techniques compiled.
 2. list_of_tools - List of some components or parts or tools I might get familiar with for my projects.
 3. supplements-and-routine - Supplement routine for improved overall health.
+4. expense-table - A table tool for when you are doubting your purchases.
+5. promise-plan - Timeline or Itinerary.
