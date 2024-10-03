@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "c6813fe2783cd896",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a9e88a916114b56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "912154046844c00d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VTU/M3-18MAT31/Summary + Recap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e6998b31f93a1970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f749ec160f530ce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03eabcbdcc8d5fe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c77a6de8f8a4fc6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a621da6154764505",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b18ae9a32bd1d8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35463eedc80147c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55481577fae5e3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c4c97583e86ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "488267ae4fade12e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a54a8b2d547e534c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b304b123e0e2523",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24f59481a86f926a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f749ec160f530ce",
+  "lastOpenFiles": [
+    "VTU/M3-18MAT31/Summary + Recap.md",
+    "create a link.md",
+    "Welcome.md",
+    "2024-07-12.md",
+    "VTU/EMW-18EC55/Infinite Line Charges.md",
+    "GUIDES/Math Cheatsheet.md",
+    "VTU/M3-18MAT31",
+    "GUIDES/Untitled 1.md",
+    "GUIDES/Untitled.md",
+    "GUIDES/Using the Greek Alphabets and Symbols in LaTeX.md",
+    "GUIDES",
+    "VTU/EMW-18EC55/Untitled",
+    "VTU/EMW-18EC55",
+    "Untitled.md",
+    "VTU"
+  ]
+}
