@@ -1,14 +1,8 @@
----
 
-## **My Comprehensive Life Plan**
-
-**Start Date:** October 1, 2024
-
----
 
 # The Stardust Odyssey
 
-## Embarking October 1, 2024
+## Embarked October 1, 2024
 
 ### **I. Key Focus Areas**
 
