@@ -70,14 +70,18 @@ This timeline provides structure by categorizing goals into **short-term**, **me
 
 - **ICRB Preparation** (Simultaneous with GATE)
   - Allocate 2 hours/day, prioritizing post-GATE (March 2025 onwards)
+
+- **Projects** (Oct 2024 - Oct 2025)  
+  - Break down into sub-projects with monthly targets
+  - Collaborate on **chip development**, **coil gun**, and **model planes**
   
 - **Karate (Oct 2024 – Sep 2025)**  
   - Practice 3-4 times/week for 1-2 hours (mental and physical balance)
   - **Goal:** Reach advanced level (black belt by 2025)
 
 - **Physical Fitness**  
-  - Strength training 3-4 times/week (combined with karate)
-  - **Rest and Recovery:** Ensure 7-8 hours of sleep nightly, schedule rest days
+  - Strength training and Yoga 4-5 times/week (combined with karate)
+  - **Rest and Recovery:** Ensure 6-8 hours of sleep nightly, schedule rest days
 
 - **Relationship Building**  
   - Bi-weekly catch-ups with friends/family
@@ -89,20 +93,20 @@ This timeline provides structure by categorizing goals into **short-term**, **me
 
 *Oct 2025 – Sep 2027*
 
-- **ICRB Exam & Job Search (2025-2026)**
-  - Complete ICRB exams and apply for **ISRO** and other **EC/Aerospace roles**
+- **Exam & Job Search (2025-2026)**
+  - Complete exams and apply for **ISRO** or other **EC/Aerospace roles**
   - **Goal:** Secure a position at ISRO or a core EC company by mid-2026
 
-- **Master Electronics, Programming & Avionics (2025-2026)**  
+- **Master (get confident in) Electronics, Programming & Avionics (2025-2026)**  
   - Allocate time for intensive learning:  
     - 3-4 hours/week on **electronics theory**
     - 3 hours/week on **programming** (C/C++, Python, Verilog, SysVerilog)
     - 2-3 hours/week on **avionics**, **rocket science**, **embedded systems**
-  - Complete projects like **model planes** and **TVC systems**
+  - Complete projects like **model planes** and **TVC system** and others (building your portfolio
 
-- **Ranga’s Projects** (2025-2026)  
+- **Major Projects** (2025-2026)  
   - Break down into sub-projects with monthly targets
-  - Collaborate on **chip development**, **coil gun**, and **model planes**
+  - Collaborate on **major projects**, write **papers**, and work on **multidisciplinary** projects
 
 - **Music & Art (Post-GATE - March 2025 onward)**  
   - Re-engage with music:  
