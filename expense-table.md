@@ -1,8 +1,8 @@
-## A numerical or tabular format that can help make a decision to purchase something clearer and more objective by quantifying various aspects of the purchase.
+## A numerical or tabular format that can help decide to purchase something clearly and objectively by quantifying various aspects of the purchase.
 
 ---
 
-Below is a format where you can assign numerical values, ranks, or clear "yes/no" answers to different decision factors which will help you evaluate the potential purchase based on a set of criteria.
+Below is a format where you can assign numerical values, ranks, or clear "yes/no" answers to different decision factors, which will help you evaluate the potential purchase based on a set of criteria.
 
 ---
 
